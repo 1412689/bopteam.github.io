@@ -2,8 +2,9 @@
 
 ### Demo ứng dụng
 
-### Danh sách chức năng đã làm được
+[Link demo](https://www.youtube.com/playlist?list=PLfV0mu6aYtJd-_TBhI-M4oPWX7hH7uZ3g)
 
+### Danh sách chức năng đã làm được
 
 #### Lập trình server
 ##### MVC
@@ -14,9 +15,9 @@
 
 #### Lập trình dữ liệu
 * [x] Thêm (1412624)
-* [x] Xóa (MSSV1)
-* [x] Sửa (MSSV1)
-* [x] Tìm kiếm (MSSV1)
+* [x] Xóa (1412624)
+* [x] Sửa (1412624)
+* [x] Tìm kiếm (1412624)
 
 #### Xử lý lỗi
 * [x] Xử lý lỗi trong cùng trang web (1412689)
@@ -32,17 +33,17 @@ Liệt kê các API nhóm đã sử dụng được ở đây
 * [x] ...
 
 #### Lập trình client
-* [x] Kiểm tra dữ liệu (MSSV1)
-* [x] Animation (MSSV1)
-* [x] Thao tác DOM (MSSV1)
-* [x] AJAX (MSSV1)
+* [x] Kiểm tra dữ liệu 1412624)
+* [x] Animation (1412624)
+* [x] Thao tác DOM (1412624)
+* [x] AJAX (1412624)
 
 #### Bảo mật
-* [x] Chứng thực (MSSV1)
-* [x] Phân quyền sử dụng một số trang web với nhiều vai trò khác nhau (MSSV1)
-   * [x] Không cho phép thao tác vào trang web khi không có quyền (MSSV1)
-   * [x] Thể hiện các chức năng khác nhau trên cùng giao diện khi người dùng có quyền khác nhau (MSSV1)
-   * [x] Thể hiện lỗi khi không truy xuất được trang khi không có quyền (MSSV1)
+* [x] Chứng thực (1412624)
+* [x] Phân quyền sử dụng một số trang web với nhiều vai trò khác nhau (1412624)
+   * [x] Không cho phép thao tác vào trang web khi không có quyền (1412624)
+   * [x] Thể hiện các chức năng khác nhau trên cùng giao diện khi người dùng có quyền khác nhau (1412624)
+   * [x] Thể hiện lỗi khi không truy xuất được trang khi không có quyền (1412624)
 
 #### Nâng cao
 * [ ] ...
@@ -53,7 +54,7 @@ Các **yêu cầu chức năng** (check và ghi MSSV vào các phần chức nă
 
 
 ### Link host
-**http://project-auction.azurewebsites.net**
+[Link host web](http://project-auction.azurewebsites.net)
 
 ### Danh sách thành viên
 
@@ -74,10 +75,13 @@ Các **yêu cầu chức năng** (check và ghi MSSV vào các phần chức nă
 ![site d u gia tr c tuy n docx-3](https://user-images.githubusercontent.com/26389518/27518685-bcaa94ac-5a0f-11e7-894d-008f6fdf9426.png)
 ![site d u gia tr c tuy n docx-4](https://user-images.githubusercontent.com/26389518/27518687-c08c1b22-5a0f-11e7-8d00-eda6fbd3bb70.png)
 
-
-
-
-
-
-
 ### Phân Công
+
+|   STT|         CÔNG VIỆC            | HỌ TÊN  |    MSSV        |
+| :----- | :-------------------------------- |:---------------------- | :----------------- |
+| 1| Lập trình server| Hoàng Thị Bích Vân| 1412689|
+| 2| Lập trình dữ liệu| Nguyễn Quốc Anh Tú| 1412624 |
+| 3| Xử lý lỗi| Hoàng Thị Bích Vân| 1412689|
+| 4| Tương tác API khác| Hoàng Thị Bích Vân| 1412689|
+| 5| Lập trình client| Nguyễn Quốc Anh Tú| 1412624 |
+| 6| Bảo mật| Nguyễn Quốc Anh Tú| 1412624 | 
