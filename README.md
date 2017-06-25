@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+# BÁO CÁO ĐỒ ÁN ỨNG DỤNG PHÂN TÁN - BOP-TEAM
 
-You can use the [editor on GitHub](https://github.com/1412689/bopteam.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Demo ứng dụng
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Danh sách chức năng đã làm được
 
 ```markdown
-Syntax highlighted code block
+## Lập trình server
+### MVC
+* [x] MVC (1412689)
+* [x] Config (1412689)
+* [x] REST routing (1412689)
+* [x] Layout & partial (1412689)
 
-# Header 1
-## Header 2
-### Header 3
+### Lập trình dữ liệu
+* [x] Thêm (1412624)
+* [x] Xóa (MSSV1)
+* [x] Sửa (MSSV1)
+* [x] Tìm kiếm (MSSV1)
 
-- Bulleted
-- List
+### Xử lý lỗi
+* [x] Xử lý lỗi trong cùng trang web (1412689)
+* [x] Xử lý lỗi dùng trang web riêng (1412689)
+   * [x] 401 (1412689)
+   * [x] 404 (1412689)
+   * [x] 500 (1412689)
 
-1. Numbered
-2. List
+### Tương tác API khác
+Liệt kê các API nhóm đã sử dụng được ở đây
+* [x] Facebook API: mô tả (1412689)
+* [x] Google API: mô tả (1412689)
+* [x] ...
 
-**Bold** and _Italic_ and `Code` text
+## Lập trình client
+* [x] Kiểm tra dữ liệu (MSSV1)
+* [x] Animation (MSSV1)
+* [x] Thao tác DOM (MSSV1)
+* [x] AJAX (MSSV1)
 
-[Link](url) and ![Image](src)
+## Bảo mật
+* [x] Chứng thực (MSSV1)
+* [x] Phân quyền sử dụng một số trang web với nhiều vai trò khác nhau (MSSV1)
+   * [x] Không cho phép thao tác vào trang web khi không có quyền (MSSV1)
+   * [x] Thể hiện các chức năng khác nhau trên cùng giao diện khi người dùng có quyền khác nhau (MSSV1)
+   * [x] Thể hiện lỗi khi không truy xuất được trang khi không có quyền (MSSV1)
+
+## Nâng cao
+* [ ] ...
+
+## Chức năng đã thực hiện
+Các **yêu cầu chức năng** (check và ghi MSSV vào các phần chức năng đã thực hiện)
+* [ ] Yêu cầu 1. (MSSV1)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Link host
+**http://project-auction.azurewebsites.net**
 
-### Jekyll Themes
+### Danh sách thành viên
+```markdown
+|   MSSV |           HỌ TÊN                 |  TÊN TÀI KHOẢN GITHUB  |        SĐT         |         Email         |
+| :----- | :-------------------------------- |:---------------------- | :----------------- |:-------------------------- |
+| 1412689| Hoàng Thị Bích Vân| 1412689| 01688568780 | hoangthibichvan95@gmail.com |
+| 1412624| Nguyễn Quốc Anh Tú| nqatu | 01643456397 | ngqanhtu@outlook.com|
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1412689/bopteam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+
+
+### SITE ĐẤU GIÁ TRỰC TUYẾN
+
+|   STT |           Người dùng                 |  Chức năng  |       Mô tả         |         Phân Công         | Tình Trạng| Ghi Chú|
+| :----- | :-------------------------------- |:---------------------- | :----------------- |:----------------- | :----------------- |:----------------- |
+| 1|Người dùng nặc danh (ko đăng nhập)|Trang chủ|||||
+|  ||Tìm kiếm sản phẩm||||||
+|  ||Xem chi tiết sản phẩm đấu giá||||||
+|  ||Đăng ký||||||
+|  ||Đăng nhập||||||
+|  ||Đăng xuất||||||
+
+
+
+
+
+
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
