@@ -67,14 +67,12 @@ Các **yêu cầu chức năng** (check và ghi MSSV vào các phần chức nă
 
 ### SITE ĐẤU GIÁ TRỰC TUYẾN
 
-|   STT |           Người dùng                 |  Chức năng  |       Mô tả         |         Phân Công         | Tình Trạng| Ghi Chú|
-| :----- | :-------------------------------- |:---------------------- | :----------------- |:----------------- | :----------------- |:----------------- |
-| 1|Người dùng nặc danh (ko đăng nhập)|Trang chủ|||||
-|  ||Tìm kiếm sản phẩm||||||
-|  ||Xem chi tiết sản phẩm đấu giá||||||
-|  ||Đăng ký||||||
-|  ||Đăng nhập||||||
-|  ||Đăng xuất||||||
+![site d u gia tr c tuy n docx-1](https://user-images.githubusercontent.com/26389518/27518673-8f58f6c4-5a0f-11e7-91c2-151740f7d8af.png)
+
+![site d u gia tr c tuy n docx-2](https://user-images.githubusercontent.com/26389518/27518678-a7ba3476-5a0f-11e7-8bab-74df8b64620e.png)
+
+![site d u gia tr c tuy n docx-3](https://user-images.githubusercontent.com/26389518/27518685-bcaa94ac-5a0f-11e7-894d-008f6fdf9426.png)
+![site d u gia tr c tuy n docx-4](https://user-images.githubusercontent.com/26389518/27518687-c08c1b22-5a0f-11e7-8d00-eda6fbd3bb70.png)
 
 
 
